@@ -16,5 +16,5 @@ mvn clean install
 docker-compose up --build
 ```
 
-##Acessando a aplicação no browser:
+## Acessando a aplicação no browser:
 - http://localhost:8080/swagger-ui.html
